@@ -1,6 +1,6 @@
 ios developing essential
 
-#swift programming language
+#1 swift programming language
 ##strings and characters
 ##collection types
 ##循环control flow
@@ -22,7 +22,7 @@ ios developing essential
 #cocoa touch  framework
 
 
-#third-party libraries
+#2 third-party libraries
 ##支付宝
 ##App Store内购
 ##发送短信验证码
@@ -42,7 +42,7 @@ ios developing essential
 ##第三方分享:QQ好友 微信好友 微信朋友圈 QQ空间
 #友盟统计
 
-#developing tools
+#3 developing tools
 ##interface builder
 ##svn
 ##git
