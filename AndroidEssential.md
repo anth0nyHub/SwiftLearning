@@ -1,10 +1,11 @@
-#Android Studio
+﻿#Android Studio
 ##  Sqlite
 ##  DDMS
 ##  AAPT打包
 
 #Third party libraries
 ##  Google Http Client
+##  ActiveAnroid
 
 #Android SDK
 ##  Intent和IntentFilter
