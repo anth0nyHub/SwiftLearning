@@ -6,6 +6,7 @@
 #Third party libraries
 ##  Google Http Client
 ##  ActiveAnroid
+##  百度地图
 
 #Android SDK
 ##  Intent和IntentFilter
