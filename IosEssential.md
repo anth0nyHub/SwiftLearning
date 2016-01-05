@@ -20,7 +20,12 @@ Optional chaining
 访问级别控制Access control
 
 #cocoa touch  framework
-
+AVFoundation：拍照，录视频
+MediaPlayer：视频播放
+AssetsLibrary：获取手机系统中文件（图片，视频）
+WebKit：web socket
+AudioToolbox：提供进行录制，播放和流解析的接口
+MapKit：地图
 
 #third-party libraries
 支付宝
