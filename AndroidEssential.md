@@ -7,6 +7,14 @@
 ##  Google Http Client
 ##  ActiveAnroid
 ##  百度地图
+##  Okhttp
+##  Retrofit
+##  Universal Image loader
+##  Umeng
+##  SMSSDK
+##  WebSocket
+##  ButterKnife
+##  Sweet Alert
 
 #Android SDK
 ##  Intent和IntentFilter
